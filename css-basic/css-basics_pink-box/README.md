@@ -6,13 +6,13 @@ Let's get started with CSS! In this challenge, you will create a pink box.
 
 Check out the `./index.html` and the `./css/styles.css` files.
 
-- Fix the selector in the CSS file so that the predefined styles are applied to the `div` element. (Notice the font changing!)
-- Insert styles for background color, text color, and rounded edges as described in the comments within the CSS file.
-- If you don't know the correct CSS properties try searching for them online.
+-   Fix the selector in the CSS file so that the predefined styles are applied to the `div` element. (Notice the font changing!)
+-   Insert styles for background color, text color, and rounded edges as described in the comments within the CSS file.
+-   If you don't know the correct CSS properties try searching for them online.
 
 ## Notes
 
-- You only have to touch the `./css/styles.css` file.
+-   You only have to touch the `./css/styles.css` file.
 
 ## Development
 
@@ -23,6 +23,4 @@ Run `npm run start` to start a development server and open [localhost:3000](http
 
 ### Scripts
 
-You can use the following command:
-
-- `npm run start` to start a development server
+ONLY TO SHOW YOU!
